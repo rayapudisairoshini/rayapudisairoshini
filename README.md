@@ -143,15 +143,15 @@ Building meaningful products while continuously improving my technical skills.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]">
+<a href="https://www.linkedin.com/in/rayapudisairoshini">
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:[YOUR_EMAIL]">
+<a href="mailto:sairoshinir@gmail.com">
   <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
 </a>
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/rayapudisairoshini">
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
