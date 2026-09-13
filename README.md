@@ -81,17 +81,6 @@ I'm **Rayapudi Sai Roshini**, a Computer Science graduate passionate about turni
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/rayapudisairoshini/CAMPUS-SPACE.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayapudisairoshini&repo=https://github.com/rayapudisairoshini/CAMPUS-SPACE.git&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="Campus Space"/>
-</a>
-
-<a href="https://github.com/rayapudisairoshini/SpellChecker.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?usernamerayapudisairoshini&repo=https://github.com/rayapudisairoshini/SpellChecker.git&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="SpellChecker"/>
-</a>
-
-</div>
 
 <br>
 
