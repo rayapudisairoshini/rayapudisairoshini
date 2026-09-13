@@ -2,17 +2,8 @@
 
 # Hey there, I'm Rayapudi Sai Roshini 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Full+Stack+Web+Developer;Problem+Solver;Java+%7C+C%2B%2B+%7C+JavaScript;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
-
 <br>
 
-<a href="https://github.com/rayapudisairoshini">
-  <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers"/>
-</a>
-<a href="https://github.com/rayapudisairoshini?tab=repositories">
-  <img src="https://img.shields.io/github/stars/rayapudisairoshini?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=rayapudisairoshini&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
@@ -24,7 +15,7 @@
 
 ---
 
-## 🌸 About Me
+##  About Me
 
 <table>
 <tr>
@@ -49,7 +40,7 @@ I'm **Rayapudi Sai Roshini**, a Computer Science graduate passionate about turni
 
 <td width="35%" align="center" valign="middle">
 
-<img src="[YOUR_PROFILE_IMAGE_URL]" width="250" alt="Rayapudi Sai Roshini"/>
+<img src="https://github.com/rayapudisairoshini" width="250" alt="Rayapudi Sai Roshini"/>
 
 <br><br>
 
