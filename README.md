@@ -1,22 +1,22 @@
 <div align="center">
 
-# Hey there, I'm [YOUR_NAME] 👋
+# Hey there, I'm Rayapudi Sai Roshini 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Full+Stack+Web+Developer;Problem+Solver;Java+%7C+C%2B%2B+%7C+JavaScript;Building+Projects+%26+Learning+Every+Day" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/rayapudisairoshini">
   <img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers"/>
 </a>
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-  <img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars"/>
+<a href="https://github.com/rayapudisairoshini?tab=repositories">
+  <img src="https://img.shields.io/github/stars/rayapudisairoshini?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rayapudisairoshini&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
-<a href="https://github.com/[YOUR_USERNAME]">
+<a href="https://github.com/rayapudisairoshini">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=120&section=header" width="100%" alt="Pink Header"/>
 </a>
 
@@ -32,7 +32,7 @@
 
 ### 👩‍💻 Who I Am
 
-I'm **[YOUR_NAME]**, a Computer Science graduate passionate about turning complex problems into simple, impactful solutions through technology.
+I'm **Rayapudi Sai Roshini**, a Computer Science graduate passionate about turning complex problems into simple, impactful solutions through technology.
 
 - 🎓 **B.Tech in Computer Science & Engineering**
 - 💻 Interested in **Full Stack Web Development**
@@ -49,7 +49,7 @@ I'm **[YOUR_NAME]**, a Computer Science graduate passionate about turning comple
 
 <td width="35%" align="center" valign="middle">
 
-<img src="[YOUR_PROFILE_IMAGE_URL]" width="250" alt="[YOUR_NAME]"/>
+<img src="[YOUR_PROFILE_IMAGE_URL]" width="250" alt="Rayapudi Sai Roshini"/>
 
 <br><br>
 
@@ -92,11 +92,11 @@ I'm **[YOUR_NAME]**, a Computer Science graduate passionate about turning comple
 
 <div align="center">
 
-<a href="https://github.com/[YOUR_USERNAME]/[CAMPUS_SPACE_REPO]">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[CAMPUS_SPACE_REPO]&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="Campus Space"/>
+<a href="https://github.com/rayapudisairoshini/CAMPUS-SPACE.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayapudisairoshini&repo=[CAMPUS_SPACE_REPO]&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="Campus Space"/>
 </a>
 
-<a href="https://github.com/[YOUR_USERNAME]/[SPELLCHECKER_REPO]">
+<a href="https://github.com/rayapudisairoshini/SpellChecker.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[SPELLCHECKER_REPO]&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="SpellChecker"/>
 </a>
 
