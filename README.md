@@ -40,7 +40,7 @@ I'm **Rayapudi Sai Roshini**, a Computer Science graduate passionate about turni
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/rayapudisairoshini" width="250" alt="Rayapudi Sai Roshini"/>
+<img src="https://github.com/rayapudisairoshini.png" width="220" alt="Rayapudi Sai Roshini"/>
 
 <br><br>
 
