@@ -84,11 +84,11 @@ I'm **Rayapudi Sai Roshini**, a Computer Science graduate passionate about turni
 <div align="center">
 
 <a href="https://github.com/rayapudisairoshini/CAMPUS-SPACE.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayapudisairoshini&repo=[CAMPUS_SPACE_REPO]&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="Campus Space"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rayapudisairoshini&repo=https://github.com/rayapudisairoshini/CAMPUS-SPACE.git&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="Campus Space"/>
 </a>
 
 <a href="https://github.com/rayapudisairoshini/SpellChecker.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=[YOUR_USERNAME]&repo=[SPELLCHECKER_REPO]&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="SpellChecker"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?usernamerayapudisairoshini&repo=https://github.com/rayapudisairoshini/SpellChecker.git&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="SpellChecker"/>
 </a>
 
 </div>
@@ -112,12 +112,12 @@ I'm **Rayapudi Sai Roshini**, a Computer Science graduate passionate about turni
 
 <div align="center">
 
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="GitHub Stats"/>
+<a href="https://github.com/rayapudisairoshini">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rayapudisairoshini&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="GitHub Stats"/>
 </a>
 
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&langs_count=8&theme=transparent&title_color=EF93C4&text_color=888888&border_color=EF93C4" alt="Top Languages"/>
+<a href="https://github.com/rayapudisairoshini">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayapudisairoshini&layout=compact&langs_count=8&theme=transparent&title_color=EF93C4&text_color=888888&border_color=EF93C4" alt="Top Languages"/>
 </a>
 
 <br><br>
@@ -132,7 +132,7 @@ I'm **Rayapudi Sai Roshini**, a Computer Science graduate passionate about turni
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=false&border_color=EF93C4&custom_title=My%20GitHub%20Activity" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayapudisairoshini&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=false&border_color=EF93C4&custom_title=My%20GitHub%20Activity" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -144,7 +144,7 @@ I'm **Rayapudi Sai Roshini**, a Computer Science graduate passionate about turni
 
 <!-- Contribution Snake: generated automatically by GitHub Action -->
 
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/rayapudisairoshini/rayapudisairoshini/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
