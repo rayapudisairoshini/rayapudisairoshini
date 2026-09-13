@@ -106,58 +106,10 @@ I'm **Rayapudi Sai Roshini**, a Computer Science graduate passionate about turni
 
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<a href="https://github.com/rayapudisairoshini">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rayapudisairoshini&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=EF93C4&icon_color=FF69B4&text_color=888888&border_color=EF93C4" alt="GitHub Stats"/>
-</a>
 
-<a href="https://github.com/rayapudisairoshini">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayapudisairoshini&layout=compact&langs_count=8&theme=transparent&title_color=EF93C4&text_color=888888&border_color=EF93C4" alt="Top Languages"/>
-</a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=transparent&hide_border=false&border=EF93C4&ring=FF69B4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=888888&currStreakNum=FF69B4&sideNums=F8BBD0" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayapudisairoshini&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=false&border_color=EF93C4&custom_title=My%20GitHub%20Activity" width="95%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Contribution Snake: generated automatically by GitHub Action -->
-
-<img src="https://raw.githubusercontent.com/rayapudisairoshini/rayapudisairoshini/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-<!--
-GitHub Action:
-Use a workflow such as:
-.github/workflows/snake.yml
-
-The workflow should generate:
-output/github-contribution-grid-snake.svg
-
-and commit the generated SVG back to this profile repository.
--->
 
 ---
 
